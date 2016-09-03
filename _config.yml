@@ -1,19 +1,4 @@
-name: aiste
-favicon: null
-layout_spectrum: 0.9188541506882757
 typography_spectrum: 0.13966913986951113
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,19 @@ color:
   lightness: 0.9716198749374598
   saturation: 0.39138043974526227
   rhythmicContrast: 0.7167472855653614
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9188541506882757
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: aiste
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
